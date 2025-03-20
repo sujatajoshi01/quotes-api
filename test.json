@@ -1,19 +1,41 @@
-{
-  "results":[
-    {
-"test":[
-{
-"name": "name",
-"value": "value"
-}
-],
-"test 1":[
-{
-"name": "name 1",
-"value": "value 1"
-}
-]
-}
 
+{
+  "results": [
+    {
+      "dynamicLists": {
+        "test 1": [
+          {
+            "name": "Test A",
+            "value": "Value A"
+          },
+          {
+            "name": "Test B",
+            "value": "Value B"
+          }
+        ],
+        "test 2": [
+          {
+            "name": "Test X",
+            "value": "Value X"
+          },
+          {
+            "name": "Test Y",
+            "value": "Value Y"
+          }
+        ]
+      },
+      "icon": "https://example.com/icon.png"
+    },
+    {
+      "dynamicLists": {
+        "test 3": [
+          {
+            "name": "Test C",
+            "value": "Value C"
+          }
+        ]
+      },
+      "icon": "https://example.com/icon2.png"
+    }
   ]
 }
