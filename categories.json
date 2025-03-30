@@ -4,30 +4,14 @@
       "id": "1",
       "name": "Motivational",
       "icon": "star",
-      "quotes": [
-        {
-          "id": "101",
-          "text": "The future belongs to those who believe in the beauty of their dreams.",
-          "author": "Eleanor Roosevelt"
-        },
-        {
-          "id": "102",
-          "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-          "author": "Winston Churchill"
-        }
-      ]
+      "quotes_url":"https://sujatajoshi01.github.io/quotes-api/motivational.json"
+    
     },
     {
       "id": "2",
       "name": "Love",
       "icon": "favorite",
-      "quotes": [
-        {
-          "id": "201",
-          "text": "Love is composed of a single soul inhabiting two bodies.",
-          "author": "Aristotle"
-        }
-      ]
+       "quotes_url":"https://sujatajoshi01.github.io/quotes-api/love.json"
     }
   ]
 }
