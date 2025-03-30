@@ -18,6 +18,12 @@
       "name": "Family",
       "icon": "family",
        "quotes_url":"https://sujatajoshi01.github.io/quotes-api/family.json"
+    },
+     {
+      "id": "3",
+      "name": "Friendship",
+      "icon": "friends",
+       "quotes_url":"https://sujatajoshi01.github.io/quotes-api/friendship.json"
     }
   ]
 }
