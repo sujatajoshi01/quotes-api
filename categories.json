@@ -12,6 +12,12 @@
       "name": "Love",
       "icon": "favorite",
        "quotes_url":"https://sujatajoshi01.github.io/quotes-api/love.json"
+    },
+    {
+      "id": "3",
+      "name": "Family",
+      "icon": "family",
+       "quotes_url":"https://sujatajoshi01.github.io/quotes-api/family.json"
     }
   ]
 }
