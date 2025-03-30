@@ -1,0 +1,604 @@
+{
+    "quotes": [
+        {
+            "quote": "Family is not an important thing. It's everything.",
+            "author": "Michael J. Fox"
+        },
+        {
+            "quote": "The family is one of nature's masterpieces.",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The only way to do great work is to love what you do.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "Do what you can, with what you have, where you are.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "Life is what happens when you're busy making other plans.",
+            "author": "John Lennon"
+        },
+        {
+            "quote": "You miss 100% of the shots you don't take.",
+            "author": "Wayne Gretzky"
+        },
+        {
+            "quote": "It always seems impossible until it\u2019s done.",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "Happiness depends upon ourselves.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "You only live once, but if you do it right, once is enough.",
+            "author": "Mae West"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine\u2014and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does.",
+            "author": "William James"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do what you feel in your heart to be right\u2014for you\u2019ll be criticized anyway.",
+            "author": "Eleanor Roosevelt"
+        }
+    ]
+}
